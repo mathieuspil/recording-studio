@@ -758,7 +758,8 @@ body {
 
 .markdown-section a {
 	color: var(--theme-color, #ea6f5a);
-	font-weight: 600
+	font-weight: 600;
+	word-break: break-word;
 }
 
 .markdown-section a:hover {

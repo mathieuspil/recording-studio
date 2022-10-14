@@ -1,4 +1,4 @@
-# Opnamestudio checklist
+# Opname&shy;studio checklist
 Welkom in de opnamestudio! Hieronder een checklist van wat je allemaal kan doen om de opname van een zo hoog mogelijke kwaliteit te maken.
 1. Leg de verdeelstekker aan die aan de linkerpoot van de standing desk bevestigd is. Dit zou ervoor moeten zorgen dat het licht, camera, scherm, microfoon en docking station aan staan.
 2. De standing desk kan je op jouw hoogte afstellen door aan het hendeltje aan de desk aan de rechterkant te draaien.
